@@ -1,0 +1,6 @@
+init_lon: longitude in which the car starts the actual rental. Coordinates reference system: EPSG:4326
+init_lat: latitude in which the car starts the actual rental. Coordinates reference system: EPSG:4326
+final_lon: longitude in which the car ends the actual rental. Coordinates reference system: EPSG:4326
+final_lat: latitude in which the car ends the actual rental. Coordinates reference system: EPSG:4326
+init_time: rental init timestamp, in ISODate
+final_time: rental init timestamp, in ISODate
